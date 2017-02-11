@@ -1,4 +1,5 @@
 === URL Admin Column ===
+
 Contributors: srikat
 Donate link: https://www.paypal.me/sridharkatakam
 Tags: admin columns, media library
@@ -33,5 +34,3 @@ http://wpsnipp.com/index.php/functions-php/media-library-url-column-for-easy-cop
 
 = 1.0.0 =
 * Initial Release
-# URL-Admin-Column
-Adds a URL column in Media Library admin screen
