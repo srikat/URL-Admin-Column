@@ -1,18 +1,10 @@
 # URL Admin Column #
 
-Contributors: srikat
-Donate link: https://www.paypal.me/sridharkatakam
-Tags: admin columns, media library
-Tested up to: 4.7.2
-Stable tag: 1.0.0
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-**Adds a URL column in WordPress Media Library admin screen.**
+Adds a URL column in WordPress Media Library admin screen.
 
 ## Description ##
 
-This plugin adds a URL column in the Media Library for easily copying the URLs of media attachments without having to click on individual items.
+This WordPress plugin adds a URL column in the Media Library for easily copying the URLs of media attachments without having to click on individual items.
 
 *Clicking inside the URL field will automatically select all the text inside ready to be copied.*
 
@@ -34,3 +26,13 @@ http://wpsnipp.com/index.php/functions-php/media-library-url-column-for-easy-cop
 
 ### 1.0.0 ###
 * Initial Release
+
+## Others ##
+
+Tested up to: 4.7.2
+
+License: GPLv3 or later
+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Donate link: https://www.paypal.me/sridharkatakam
