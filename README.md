@@ -6,7 +6,7 @@ Tags: admin columns, media library
 Tested up to: 4.7.2
 Stable tag: 1.0.0
 License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Adds a URL column in WordPress Media Library admin screen.
 
