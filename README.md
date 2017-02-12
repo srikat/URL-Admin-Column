@@ -31,8 +31,8 @@ http://wpsnipp.com/index.php/functions-php/media-library-url-column-for-easy-cop
 
 Tested up to: 4.7.2
 
-License: GPLv3 or later
+License: GPLv2 or later
 
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Donate link: https://www.paypal.me/sridharkatakam
